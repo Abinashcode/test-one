@@ -30,6 +30,7 @@ export default function Navbar(props) {
             </form>
           </div>
         </div>
+       className = "bg-red" 
       </nav>
 
     </>
